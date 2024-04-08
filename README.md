@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pawwan jung bista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawwan jung bista" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pawan-jung-bista/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawwan jung bista" height="30" width="40" /></a>
 <a href="https://kaggle.com/pawanbista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pawanbista" height="30" width="40" /></a>
 <a href="https://fb.com/pawan jung bista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pawan jung bista" height="30" width="40" /></a>
 </p>

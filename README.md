@@ -1,4 +1,4 @@
-<i> <h1 align="center">Hello it's Pawan Jung here.</h1> </i>
+<i> <h1 align="center">Hello it's Pawan Jung here.</h1> </i> 
 <h3 align="center"><em>The guy who loves Technology, Economy, and Entrepreneurship</em></h3> 
 <img align="right" alt="laado chus" width="1000" src="https://media1.tenor.com/m/cbqkmBU0a4gAAAAC/show-me-the-money-rich.gif">
 

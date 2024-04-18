@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawan-jung" alt="pawan-jung" /></a> </p>
 
-- <h4>I'm currently exploring:</h4> Solidity, Web3.js (in a nutshell, I am exploring Web3/blockchain and FinTech)
+- <h4>I'm currently exploring:</h4> Solidity, Web3.js (in a nutshell, I am exploring Web3/blockchain and FinTech) 
 
 - <h4>Fun fact:</h4> I can improve code by copying and pasting it and then making it better
 
